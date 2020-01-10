@@ -1,0 +1,21 @@
+body{
+	padding:0px;
+	margin:0px;
+}
+
+#tictocpad{
+	text-align:center;
+	margin:200px 0px 0px 600px;
+	height:auto;
+	background-color:gray;
+	width:190px;
+}
+tr{
+	height:50px;
+	width:auto;
+}
+td{
+	height:50px;
+	padding:5px 5px 5px 5px;
+	width:50px;
+}
